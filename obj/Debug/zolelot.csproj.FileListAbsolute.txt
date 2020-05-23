@@ -1,0 +1,11 @@
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zolelot.csprojAssemblyReference.cache
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zilelot.Form1.resources
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zilelot.LOGIN.resources
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zilelot.Properties.Resources.resources
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zolelot.csproj.GenerateResource.cache
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zolelot.csproj.CoreCompileInputs.cache
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zilelot.exe
+C:\Users\yuval weinstein\source\repos\zilelot\obj\Debug\zilelot.pdb
+C:\Users\yuval weinstein\source\repos\zilelot\bin\Debug\zilelot.exe.config
+C:\Users\yuval weinstein\source\repos\zilelot\bin\Debug\zilelot.exe
+C:\Users\yuval weinstein\source\repos\zilelot\bin\Debug\zilelot.pdb
